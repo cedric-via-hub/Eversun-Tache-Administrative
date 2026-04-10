@@ -1,10 +1,3 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/consuel/page": "app/consuel/page.js",
-  "/daact/page": "app/daact/page.js",
-  "/dp-accordes/page": "app/dp-accordes/page.js",
-  "/dp-en-cours/page": "app/dp-en-cours/page.js",
-  "/dp-refus/page": "app/dp-refus/page.js",
-  "/page": "app/page.js",
-  "/raccordement/page": "app/raccordement/page.js"
+  "/page": "app/page.js"
 }
